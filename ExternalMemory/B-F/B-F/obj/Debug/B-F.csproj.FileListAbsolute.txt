@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2017\Projects\B-F\B-F\bin\Debug\B-F.exe.config
+c:\users\student\documents\visual studio 2017\Projects\B-F\B-F\bin\Debug\B-F.exe
+c:\users\student\documents\visual studio 2017\Projects\B-F\B-F\bin\Debug\B-F.pdb
+c:\users\student\documents\visual studio 2017\Projects\B-F\B-F\obj\Debug\B-F.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2017\Projects\B-F\B-F\obj\Debug\B-F.exe
+c:\users\student\documents\visual studio 2017\Projects\B-F\B-F\obj\Debug\B-F.pdb
