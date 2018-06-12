@@ -1,0 +1,6 @@
+C:\Users\Владимир\Desktop\Learning\EM_LAB1\bin\Debug\EM_LAB1.exe.config
+C:\Users\Владимир\Desktop\Learning\EM_LAB1\obj\Debug\EM_LAB1.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\Learning\EM_LAB1\bin\Debug\EM_LAB1.exe
+C:\Users\Владимир\Desktop\Learning\EM_LAB1\bin\Debug\EM_LAB1.pdb
+C:\Users\Владимир\Desktop\Learning\EM_LAB1\obj\Debug\EM_LAB1.exe
+C:\Users\Владимир\Desktop\Learning\EM_LAB1\obj\Debug\EM_LAB1.pdb
