@@ -38,7 +38,7 @@ namespace ConsoleApp1
 
             int i = 0;
 
-            while (i < 4)
+            while (i < N)
             {
                 int maxnumber = nums.Max();
                 int j = 0;
@@ -84,5 +84,3 @@ namespace ConsoleApp1
     }
 
 }
-
-//ДЗ: сортировка вставкой (Insertion Sort) + понять, почему сортировка выбором (Selection Sort) работает быстрее

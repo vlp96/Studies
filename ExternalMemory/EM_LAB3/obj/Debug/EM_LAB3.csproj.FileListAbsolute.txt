@@ -3,3 +3,9 @@ C:\Users\Владимир\Desktop\Learning\EM_LAB3\bin\Debug\EM_LAB3.exe
 C:\Users\Владимир\Desktop\Learning\EM_LAB3\bin\Debug\EM_LAB3.pdb
 C:\Users\Владимир\Desktop\Learning\EM_LAB3\obj\Debug\EM_LAB3.exe
 C:\Users\Владимир\Desktop\Learning\EM_LAB3\obj\Debug\EM_LAB3.pdb
+C:\Users\Владимир\Desktop\Learning\Studies\ExternalMemory\EM_LAB3\bin\Debug\EM_LAB3.exe.config
+C:\Users\Владимир\Desktop\Learning\Studies\ExternalMemory\EM_LAB3\obj\Debug\EM_LAB3.exe
+C:\Users\Владимир\Desktop\Learning\Studies\ExternalMemory\EM_LAB3\obj\Debug\EM_LAB3.pdb
+C:\Users\Владимир\Desktop\Learning\Studies\ExternalMemory\EM_LAB3\bin\Debug\EM_LAB3.exe
+C:\Users\Владимир\Desktop\Learning\Studies\ExternalMemory\EM_LAB3\bin\Debug\EM_LAB3.pdb
+C:\Users\Владимир\Desktop\Learning\Studies\ExternalMemory\EM_LAB3\obj\Debug\EM_LAB3.csprojResolveAssemblyReference.cache
